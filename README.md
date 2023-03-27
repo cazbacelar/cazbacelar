@@ -26,7 +26,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cazbacelar&show_icons=true&theme=panda" alt="cazbacelar" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cazbacelar&show_icons=true&locale=en&layout=compact" alt="cazbacelar" /></p> -->
-<br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cazbacelar&show_icons=true&locale=en&theme=panda" alt="cazbacelar" /></p>
 <!--
 **cazbacelar/cazbacelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
