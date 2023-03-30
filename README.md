@@ -14,7 +14,7 @@
 
 - 🤔 I’m looking for help to **start my career in tech**
 
-- 👨‍💻 All of my projects are available at [troopl.com/carolinabacelar](https://troopl.com/carolinabacelar)
+<!-- - 👨‍💻 All of my projects are available at [troopl.com/carolinabacelar](https://troopl.com/carolinabacelar) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
