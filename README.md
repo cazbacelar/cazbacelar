@@ -6,15 +6,15 @@
 
 <p align="left">I find programming to be intellectually stimulating and challenging, and problem-solving is what draws me in. I am now excited to embark on a new journey as a developer and contribute to the ever-growing tech community :)</p>
 
-- 🔭 I’m currently working on **refactoring my projects from Le Wagon and some small projects from The Odin Project online course**
+- 🔭 I’m currently working on **refactoring my projects from Le Wagon and some other personal projects to add to my portfolio**
 
 - 🌱 I’m currently learning **JavaScript, React and AWS**
 
-- 👯 I’m looking to collaborate on **Ruby on Rails/JavaScript  and open-source projects to boost my developer experience!**
+- 👯 I’m looking to collaborate on **Ruby on Rails/JavaScript and open-source projects to boost my developer experience!**
 
 - 🤔 I’m looking for help to **start my career in tech**
 
-<!-- - 👨‍💻 All of my projects are available at [troopl.com/carolinabacelar](https://troopl.com/carolinabacelar) -->
+- 👨‍💻 All of my projects are available at [troopl.com/carolinabacelar](https://troopl.com/carolinabacelar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
