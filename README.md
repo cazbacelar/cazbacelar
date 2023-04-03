@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer based in London, UK</h3>
 
 <h3 align="left">Web Dev journey so far:</h3>
-<p align="left"> For one year, I taught myself how to code while still pursuing my law degree, and recently I finally got the opportunity to start my journey as a full-stack developer by graduating from Le Wagon's 9-week full-time intensive bootcamp. While working on real life projects, I was able to enhance my HTML, CSS and JavaScript skills and learn so many different languages and technologies like Bootstrap, Ruby, SQL, git, GitHub, Heroku, AJAX, and Ruby on Rails, and also boost important soft skills, such as problem-solving and critical thinking, teamwork, communication, and collaboration.
+<p align="left"> For one year, I taught myself how to code while still pursuing my law degree, and recently I finally got the opportunity to start my journey as a full-stack developer by graduating from Le Wagon's 9-week full-time intensive bootcamp. While working on real life projects, I was able to enhance my HTML, CSS and JavaScript skills and learn so many different languages and technologies like Bootstrap, Ruby, SQL, git, GitHub, Heroku, and Ruby on Rails, and also boost important soft skills, such as problem-solving and critical thinking, teamwork, communication, and collaboration.
 
 <p align="left">I find programming to be intellectually stimulating and challenging, and problem-solving is what draws me in. I am now excited to embark on a new journey as a developer and contribute to the ever-growing tech community :)</p>
 
