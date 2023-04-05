@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **refactoring my projects from Le Wagon and some other personal projects to add to my portfolio**
 
-- 🌱 I’m currently learning **React and AWS**
+- 🌱 I’m currently learning **React** and improving my **JavaScript** skills.
 
 - 👯 I’m looking to collaborate on **Ruby on Rails/JavaScript and open-source projects to boost my developer experience!**
 
